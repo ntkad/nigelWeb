@@ -24,7 +24,7 @@ function App() {
             <div className="bg-gray-800/90 backdrop-blur-sm rounded-xl shadow-2xl p-6 text-center border border-gray-700">
               <div className="w-48 h-48 mx-auto mb-4 bg-gradient-to-br from-blue-900 to-blue-700 rounded-full flex items-center justify-center border-4 border-gray-600 shadow-xl">
                 <img
-                  src="Nigel.jpg"
+                  src="/Nigel.jpg"
                   alt="Nigel Takunda Kadonzvo"
                   className="w-full h-full object-cover object-center rounded-full"
                 />
